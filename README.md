@@ -1,3 +1,3 @@
 # pkfirst-repo
 my first repository
-<br> Author Prashant Khedekar
+<br> Author Prashant K
